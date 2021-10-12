@@ -35,11 +35,11 @@ MF5='pos_fast':'smf',[0.3 0.7]
 Name='thrust'
 Range=[0 3]
 NumMFs=5
-MF1='neg_large':'gaussmf',[0.25 0.5]
-MF2='neg_small':'gaussmf',[0.25 1]
-MF3='zero':'gaussmf',[0.25 1.5]
-MF4='pos_small':'gaussmf',[0.25 2]
-MF5='pos_large':'gaussmf',[0.25 2.5]
+MF1='neg_large':'gaussmf',[0.25 0.22625]
+MF2='neg_small':'gaussmf',[0.25 0.72625]
+MF3='zero':'gaussmf',[0.25 1.22625]
+MF4='pos_small':'gaussmf',[0.25 1.726]
+MF5='pos_large':'gaussmf',[0.25 2.226]
 
 [Rules]
 1 1, 5 (1) : 1
