@@ -1,5 +1,5 @@
 [System]
-Name='fuzzy_theta6'
+Name='fuzzy_theta'
 Type='mamdani'
 Version=2.0
 NumInputs=2
